@@ -1,3 +1,4 @@
 docker
 dockerpty
 importlib_resources
+charset-normalizer>=3.4.7
